@@ -13,11 +13,10 @@
         <li>Mobile apps with Android studio</li>
     </ul>
     <li>Simple designing skills in Figma</li>
+    <li>Basic rust knowledge (with the window api)</li>
 </ul>
 <h2>📒 What I would like to learn</h2>
 <ul>
     <li>Animating and more advanced features of Figma</li>
-    <li>C++ Native Windows UI</li>
     <li>Godot mobile game dev</li>
-    <li>Rust</li>
 </ul>
